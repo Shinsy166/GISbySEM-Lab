@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GIS-platform/static/css/main.d1248dcc.chunk.css",
+    "main.js": "/GIS-platform/static/js/main.a33ed08b.chunk.js",
+    "main.js.map": "/GIS-platform/static/js/main.a33ed08b.chunk.js.map",
+    "runtime-main.js": "/GIS-platform/static/js/runtime-main.d008858e.js",
+    "runtime-main.js.map": "/GIS-platform/static/js/runtime-main.d008858e.js.map",
+    "static/js/2.5387ac41.chunk.js": "/GIS-platform/static/js/2.5387ac41.chunk.js",
+    "static/js/2.5387ac41.chunk.js.map": "/GIS-platform/static/js/2.5387ac41.chunk.js.map",
+    "index.html": "/GIS-platform/index.html",
+    "static/css/main.d1248dcc.chunk.css.map": "/GIS-platform/static/css/main.d1248dcc.chunk.css.map",
+    "static/js/2.5387ac41.chunk.js.LICENSE.txt": "/GIS-platform/static/js/2.5387ac41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d008858e.js",
+    "static/js/2.5387ac41.chunk.js",
+    "static/css/main.d1248dcc.chunk.css",
+    "static/js/main.a33ed08b.chunk.js"
+  ]
+}
